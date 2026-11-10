@@ -1,0 +1,3 @@
+For Linux users compiling with GCC,
+the following command line options may help you compile the project: 
+-lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl
